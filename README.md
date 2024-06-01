@@ -1,5 +1,8 @@
 # Search With Web - A Chrome extension that makes Google searches default to the web tab
 
+## Notice:
+I was recently made aware of https://tenbluelinks.org/ which accomplishes the same thing as this extension but in a nicer way.  I would recommend checking that website out instead of using this.
+
 ## Motivation
 I was recently informed of the web tab when doing a Google search, a tab meaning all, images, videos, shopping, etc.  Web search removes most of the sponsored content and other junk that tends to clog up a Google search.  I wanted to make this the default option on my browser but there is not a native way to do it in Chrome. This extension solves that problem by adding a search engine to Chrome and making it default to the web tab.
 
